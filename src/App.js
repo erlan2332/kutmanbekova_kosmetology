@@ -5,6 +5,8 @@ import Section from "./components/section1/section1";
 import CustomCard from "./components/custom_card/custom_card";
 import SocialMedia from "./components/social_media/social_media";
 import EndPage from "./components/end_page/end_page";
+import Learn_2 from "./components/Learn/Learn_1";
+import CannotFood from "./components/cannot/cannot_food";
 
 const App = () => {
   return (
@@ -12,7 +14,9 @@ const App = () => {
         <Section />
         <CustomCard />
         <AppointmentScheduler />
+        <Learn_2 />
         <ButtonComponent />
+        <CannotFood />
         <SocialMedia />
         <EndPage />
     </div>

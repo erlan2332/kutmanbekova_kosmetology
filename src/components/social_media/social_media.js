@@ -1,6 +1,8 @@
 import React from "react";
 import './social_media.css';
 import logo from '../logo/logo_kutmanbekova_3.png'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const SocialMedia = () => {
     return(

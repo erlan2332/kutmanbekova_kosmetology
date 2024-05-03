@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import img1 from '../img/pexels-bryce-carithers-11680701-6633868.jpg'
 import img2 from '../img/pexels-scottwebb-1029596.jpg'
 import img3 from '../img/pexels-julieaagaard-2294477.jpg'

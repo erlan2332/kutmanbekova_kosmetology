@@ -29,7 +29,7 @@ const Section = () => {
                                 <a className="nav-link active" aria-current="page" href="#" onClick={handleShow}>О нас</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Цены</a>
+                                <a className="nav-link" href='#'>Обучение</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link disabled" aria-disabled="true">Косметология</a>

@@ -14,7 +14,13 @@ const Modal_3 = ({ isOpen, onClose }) => {
         <p>- 16-этапная чистка<br />
           - Мезотерапия<br />
           - Витамин С<br />
-          - Средний пилинг</p>
+          - Средний пилинг <br />
+          - Глубокий пилинг	<br />
+          - Окси
+          - Золотая сыворотка	<br />
+          - Смотря на состояние кожи
+          </p>
+
       </ModalBootstrap.Body>
       <ModalBootstrap.Footer>
         <Button variant="secondary" onClick={onClose}>
