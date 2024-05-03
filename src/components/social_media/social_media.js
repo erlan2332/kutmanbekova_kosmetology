@@ -1,5 +1,6 @@
 import React from "react";
 import './social_media.css';
+import logo from '../logo/logo_kutmanbekova_3.png'
 
 const SocialMedia = () => {
     return(
@@ -21,6 +22,7 @@ const SocialMedia = () => {
                         <a href="https://www.instagram.com/kutmanbekova_centr_krasoty?igsh=cHluN2h6Z2h6aGYz" className="btn ert-23-22">instagram</a>
                             </div>
                             <div className="col d-flex flex-column gap-2">
+                                <img className="logoKutman" src={logo} />
                                 <h4 className="fw-semibold mb-0 text-body-emphasis">Наш адресс</h4>
                                 <p className="text-body-secondary">Ul.Kurmanbek baatyra 142 Jalal-Abad, Kyrgyzstan</p>
                             </div>

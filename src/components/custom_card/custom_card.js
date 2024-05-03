@@ -3,6 +3,8 @@ import img1 from '../img/pexels-bryce-carithers-11680701-6633868.jpg'
 import img2 from '../img/pexels-scottwebb-1029596.jpg'
 import img3 from '../img/pexels-julieaagaard-2294477.jpg'
 import './custom_card.css'
+import logo from '../logo/logo_2_kutmanbekova.png'
+import logo2 from '../logo/logo_kutmanbekova.png'
 
 const CustomCard = () => {
     return (
@@ -16,14 +18,14 @@ const CustomCard = () => {
                             <h3 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">почувствуете свежесть</h3>
                             <ul className="d-flex list-unstyled mt-auto">
                                 <li className="me-auto">
-                                    <img src={img1} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
+                                    <img src={logo} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
                                 </li>
                                 <li className="d-flex align-items-center me-3">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>свежесть</small>
                                 </li>
                                 <li className="d-flex align-items-center">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>3d</small>
                                 </li>
                             </ul>
@@ -36,14 +38,14 @@ const CustomCard = () => {
                             <h3 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Ощущение легкости</h3>
                             <ul className="d-flex list-unstyled mt-auto">
                                 <li className="me-auto">
-                                    <img src={img1} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
+                                    <img src={logo} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
                                 </li>
                                 <li className="d-flex align-items-center me-3">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>легкость</small>
                                 </li>
                                 <li className="d-flex align-items-center">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>4d</small>
                                 </li>
                             </ul>
@@ -56,14 +58,14 @@ const CustomCard = () => {
                             <h3 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Консультация по питанию</h3>
                             <ul className="d-flex list-unstyled mt-auto">
                                 <li className="me-auto">
-                                    <img src={img1} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
+                                    <img src={logo} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white" />
                                 </li>
                                 <li className="d-flex align-items-center me-3">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>ПП</small>
                                 </li>
                                 <li className="d-flex align-items-center">
-                                    <img src={img1} width="16" height="16" className="me-2" alt="" />
+                                    <img src={logo2} width="16" height="16" className="me-2" alt="" />
                                     <small>5d</small>
                                 </li>
                             </ul>

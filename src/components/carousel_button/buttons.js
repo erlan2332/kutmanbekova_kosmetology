@@ -54,7 +54,7 @@ const ButtonComponent = () => {
                   <h4 className="my-0 fw-normal">2 месяца</h4>
                 </div>
                 <div className="card-body">
-                  <h1 className="card-title pricing-card-title">20.000с<small className="text-body-secondary fw-light">/мс</small></h1>
+                  <h1 className="card-title pricing-card-title">20.000с<small className="text-body-secondary fw-light">/2мс</small></h1>
                   <ul className="list-unstyled mt-3 mb-4">
                     <li>Включены все <br /> процедуры в <br /> течении 2х <br /> месяцев</li>
                   </ul>
@@ -68,7 +68,7 @@ const ButtonComponent = () => {
                   <h4 className="my-0 fw-normal">6 месяцев</h4>
                 </div>
                 <div className="card-body">
-                  <h1 className="card-title pricing-card-title">35.000с<small className="text-body-secondary fw-light">/мс</small></h1>
+                  <h1 className="card-title pricing-card-title">35.000с<small className="text-body-secondary fw-light">/6мс</small></h1>
                   <ul className="list-unstyled mt-3 mb-4">
                   <li>Включены все <br /> процедуры в <br /> течении 6ти <br /> месяцев</li>
                   </ul>
@@ -82,7 +82,7 @@ const ButtonComponent = () => {
                   <h4 className="my-0 fw-normal rew-2">12 месяцев</h4>
                 </div>
                 <div className="card-body">
-                  <h1 className="card-title pricing-card-title">50.000с<small className="text-body-secondary fw-light">/мс</small></h1>
+                  <h1 className="card-title pricing-card-title">50.000с<small className="text-body-secondary fw-light">/12мс</small></h1>
                   <ul className="list-unstyled mt-3 mb-4">
                   <li>Включены все <br /> процедуры в <br /> течении 12ти <br /> месяцев</li>
                   </ul>

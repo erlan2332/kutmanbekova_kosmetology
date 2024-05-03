@@ -6,6 +6,7 @@ import image2 from '../img/pexels-annpoan-5798000.jpg';
 import image3 from  '../img/pexels-gabby-k-6621461.jpg';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './section1.css';
+import logo from  '../logo/logo_kutmanbekova.png'
 
 const Section = () => {
     const [showModal, setShowModal] = useState(false);
@@ -17,6 +18,7 @@ const Section = () => {
         <main>
             <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
                 <div className="container-fluid">
+                    <img className='logo_kut' src={logo} />
                     <a className="navbar-brand" href="#">kutmanbekova</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
