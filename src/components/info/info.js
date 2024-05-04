@@ -59,6 +59,7 @@ class AppointmentScheduler extends Component {
     return (
       <div className="appointment-container_2">
         <div className='checking'>Записаться на прием</div>
+        <div className='rec_date_info'>
         <div className="current-date">
           <span className="day">{dayNamesShort[currentDate.getDay()]}</span>
           <span className="date">{formattedDate}</span>
@@ -77,6 +78,7 @@ class AppointmentScheduler extends Component {
               </button>
             </div>
           ))}
+        </div>
         </div>
         <Modal show={showModal} onHide={() => this.setState({ showModal: false })}>
           <Modal.Header closeButton>

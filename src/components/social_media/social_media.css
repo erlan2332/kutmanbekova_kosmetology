@@ -37,7 +37,7 @@
     border: none;
     border-radius: 0.25rem;
     color: #fff;
-    background-color: #218838;
+    background-color: #24D366;
     text-decoration: none;
     transition: background-color 0.3s ease;
     margin-left: auto; /* Располагаем кнопку вправо */
@@ -45,8 +45,8 @@
   
 .btn:hover {
     background-color: rgba(255, 255, 255, 0);
-    border: solid 2px #218838;
-    color: #218838;
+    border: solid 2px #24D366;
+    color: #24D366;
     font-size: 1rem;
 }
 
