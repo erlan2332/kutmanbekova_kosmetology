@@ -36,7 +36,7 @@ const Section = () => {
                             </li>
                         </ul>
                         <form className="d-flex" role="search">
-                            <a href='http://wa.me/+996776242425' className="btn btn-outline-success">Whatsapp</a>
+                            <a href='http://wa.me/+996776242425' className="btn btn-outline-success ert_kuma_2">Связаться</a>
                         </form>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ const Section = () => {
                             <div className="carousel-caption text-start">
                                 <h1 className='header_text_about'>Свяжитесь с нами</h1>
                                 <p className="opacity-75 ert_tre">В нашей клинике косметологии мы стремимся помочь достичь здоровой и ухоженной кожи. </p>
-                                <p><a className="btn btn-lg btn-primary rte_ert" href="http://wa.me/+996776242425">Whatsapp</a></p>
+                                <p><a className="btn btn-lg btn-primary rte_ert" href="http://wa.me/+996776242425">Связаться</a></p>
                             </div>
                         </div>
                     </div>
@@ -79,7 +79,7 @@ const Section = () => {
                             <div className="carousel-caption">
                                 <h1 className='kuma_era'>Мы рады помочь каждому</h1>
                                 <p>Наша команда специалистов готова предложить вам широкий спектр профессиональных услуг</p>
-                                <p><a className="btn btn-lg btn-primary" href="http://wa.me/+996776242425">Whatsapp</a></p>
+                                <p><a className="btn btn-lg btn-primary" href="http://wa.me/+996776242425">Связаться</a></p>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ const Section = () => {
                             <div className="carousel-caption text-end">
                                 <h1 className='kuma_era2'>Поможем вернуть естественную красоту</h1>
                                 <p>Some representative placeholder content for the third slide of this carousel.</p>
-                                <p><a className="btn btn-lg btn-primary" href="http://wa.me/+996776242425">Whatsapp</a></p>
+                                <p><a className="btn btn-lg btn-primary" href="http://wa.me/+996776242425">Связаться</a></p>
                             </div>
                         </div>
                     </div>

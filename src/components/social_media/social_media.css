@@ -16,9 +16,9 @@
 .rec_cont {
     max-width: 280px;
     height: 230px;
-    border: solid 2px #007bff;
     border-radius: 20px;
     margin: 30px auto;
+    border: solid #0E1626;
 }
 
 .logoKutman {
@@ -37,7 +37,7 @@
     border: none;
     border-radius: 0.25rem;
     color: #fff;
-    background-color: #25D366;
+    background-color: #218838;
     text-decoration: none;
     transition: background-color 0.3s ease;
     margin-left: auto; /* Располагаем кнопку вправо */
@@ -45,8 +45,8 @@
   
 .btn:hover {
     background-color: rgba(255, 255, 255, 0);
-    border: solid 2px #25D366;
-    color: #25D366;
+    border: solid 2px #218838;
+    color: #218838;
     font-size: 1rem;
 }
 
@@ -65,10 +65,37 @@
 
 .btn.ert-23-22:hover {
     background-color: rgba(255, 255, 255, 0);
-    border: solid 2px #25D366;
-    color: #25D366;
+    border: solid 2px #95C43E;
+    color: #95C43E;
     font-size: 1rem;
 }
+
+.btn-ert-23-21 {
+  width: 150px;
+  height: 40px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #24D366;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  align-items: center;
+  display: flex; /* Добавлено */
+  justify-content: center; /* Добавлено */
+  text-align: center; /* Добавлено */
+  margin-top: 20px;
+}
+
+
+.btn-ert-23-21:hover {
+  background-color: rgba(255, 255, 255, 0);
+  border: solid 2px #24D366;
+  color: #24D366;
+  font-size: 1rem;
+}
+
 
 .rec_cont {
     display: flex;
@@ -90,7 +117,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: bold;
-    color: gray;
+    color: #95C43E;
     margin-top: 20px;
   }
 

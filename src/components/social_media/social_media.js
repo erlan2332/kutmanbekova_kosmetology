@@ -20,7 +20,7 @@ const SocialMedia = () => {
                         <div className="row row-cols-1 row-cols-sm-2 g-4">
                         <div className="rec_cont">
                             <div className="text_rec_soc_set">Свяжитесь снами</div>
-                        <a href="http://wa.me/+996776242425" className="btn ert-23-21">whatsapp</a>
+                        <a href="http://wa.me/+996776242425" className="btn-ert-23-21">whatsapp</a>
                         <a href="https://www.instagram.com/kutmanbekova_centr_krasoty?igsh=cHluN2h6Z2h6aGYz" className="btn ert-23-22">instagram</a>
                             </div>
                             <div className="col d-flex flex-column gap-2">

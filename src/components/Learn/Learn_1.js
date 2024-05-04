@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Modal, Button } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './learn.css'
 
 
 const Learn_2 = () => {
@@ -21,7 +22,7 @@ const Learn_2 = () => {
         </a>
       </header>
       <div className="row align-items-md-stretch">
-        <div className="col-md-6">
+        <div className="col-md-6 ert">
           <div className="h-100 p-5 text-bg-dark rounded-3">
             <h2>Эстетист</h2>
             <p>Курс доступен для лиц от 16 лет и старше без обязательного медицинского образования. Курс для эстетистов продолжительностью 20 дней включает получение двух сертификатов на русском и английском языках.</p>
